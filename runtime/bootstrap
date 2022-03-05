@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -euo pipefail
+
+/opt/php /opt/runtime.php
